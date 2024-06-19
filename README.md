@@ -237,5 +237,6 @@ npm publish --access private
 ```
 
 ## References
-- [Tutorial 1](https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/)
-https://www.npmjs.com/
+ - [Tutorial 1](https://www.freecodecamp.org/news/how-to-create-and-publish-your-first-npm-package/)
+ - [Tutorial 2](https://pauloe-me.medium.com/typescript-npm-package-publishing-a-beginners-guide-40b95908e69c)
+ - [NPM](https://www.npmjs.com/)
