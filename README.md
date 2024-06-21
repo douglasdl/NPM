@@ -229,6 +229,11 @@ npm login
 
 Publish your NPM package:
 ```sh
+# Increase the (patch, minor or major) version before publish
+npm version patch
+npm version minor
+npm version major
+#
 npm publish
 # or this for scoped name
 npm publish --access public
